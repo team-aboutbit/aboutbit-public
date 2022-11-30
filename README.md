@@ -15,7 +15,7 @@ Depth1 | Depth2 | 설명
 커뮤니티 | TBD
 
 ## 시스템 아키텍처
-![image](https://user-images.githubusercontent.com/106375734/177684007-69e2dc56-714e-4354-83a7-b147423ab37f.png)
+![image](https://user-images.githubusercontent.com/83773834/204828547-0d7012b5-dc2d-47af-868a-0dfa66027933.png)
 
 ## ABOUTBIT 프로젝트 구성
 
