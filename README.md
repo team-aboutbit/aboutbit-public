@@ -21,10 +21,10 @@ Depth1 | Depth2 | 설명
 
 항목 | 저장소
 -- | -- |
-ab-batch | https://github.com/aboutbit/aboutbit-batch
-ab-config | https://github.com/aboutbit/aboutbit-config
-ab-api | https://github.com/aboutbit/aboutbit-api
-ab-admin | https://github.com/aboutbit/aboutbit-admin
-ab-web | https://github.com/aboutbit/aboutbit-web
-ab-lambda | https://github.com/aboutbit/aboutbit-lambda
+ab-batch | https://github.com/team-aboutbit/aboutbit-batch
+ab-config | https://github.com/team-aboutbit/aboutbit-config
+ab-api | https://github.com/team-aboutbit/aboutbit-api
+ab-admin | https://github.com/team-aboutbit/aboutbit-admin
+ab-web | https://github.com/team-aboutbit/aboutbit-web
+ab-lambda | https://github.com/team-aboutbit/aboutbit-lambda
 ab-socket | https://github.com/team-aboutbit/aboutbit-socket
