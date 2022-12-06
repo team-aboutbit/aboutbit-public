@@ -1,5 +1,7 @@
 # ABOUTBIT
 
+<img src="https://user-images.githubusercontent.com/106375734/205940667-ac97c60e-b0bf-42b5-bd89-90443c50691b.png" width=900>
+
 ## ABOUTBIT 기능 구성
 
 Depth1 | Depth2 | 설명
